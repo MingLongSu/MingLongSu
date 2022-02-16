@@ -5,10 +5,6 @@
 - 📕 I'm currently learning more about TypeScript, OpenCV, TensorFlow, and Flask
 - 🏃‍♂️ For hobbies, I enjoy playing Apex Legends, Valorant, Lost Ark (recently), and Final Fantasy VII (yes, i'm a video game addict 🤓)
 
-<a href="https://c.tenor.com/XDsfMLNLXW0AAAAC/tohru-dragonmaid.gif" target="blank"><img align="center" src="https://c.tenor.com/XDsfMLNLXW0AAAAC/tohru-dragonmaid.gif" height="100" /></a>
-- 🎞️ (PS. I also love watching anime from time to time!)
-
-
 <!--
 **MingLongSu/MingLongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
