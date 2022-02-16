@@ -5,7 +5,7 @@
 - 📕 I'm currently learning more about TypeScript, OpenCV, TensorFlow, and Flask
 - 🏃‍♂️ For hobbies, I enjoy playing Apex Legends, Valorant, Lost Ark (recently), and Final Fantasy VII (yes, i'm a video game addict 🤓)
 
-<a href="https://64.media.tumblr.com/147a347cc1ed9c4d321ae7a5539f7491/tumblr_ony1scKEoh1vviqkjo1_500.gifv" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://pa1.narvii.com/6855/9d8456809fa532f31dcdbf43e32393e6b109a4de_hq.gif" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 <!--
 **MingLongSu/MingLongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
