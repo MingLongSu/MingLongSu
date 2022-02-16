@@ -5,7 +5,7 @@
 - 📕 I'm currently learning more about TypeScript, OpenCV, TensorFlow, and Flask
 - 🏃‍♂️ For hobbies, I enjoy playing Apex Legends, Valorant, Lost Ark (recently), and Final Fantasy VII (yes, i'm a video game addict 🤓)
 
-<a href="https://pa1.narvii.com/6855/9d8456809fa532f31dcdbf43e32393e6b109a4de_hq.gif" target="blank"><img align="center" src="https://pa1.narvii.com/6855/9d8456809fa532f31dcdbf43e32393e6b109a4de_hq.gif" height="100" /></a>
+<a href="https://c.tenor.com/XDsfMLNLXW0AAAAC/tohru-dragonmaid.gif" target="blank"><img align="center" src="https://c.tenor.com/XDsfMLNLXW0AAAAC/tohru-dragonmaid.gif" height="100" /></a>
 - 🎞️ (PS. I also love watching anime from time to time!)
 
 
