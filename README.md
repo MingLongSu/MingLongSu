@@ -3,7 +3,7 @@
 - 😹 I'm currently a first-year computer science student studying at the University of Waterloo
 - 💭 I'm currently interested in web development as well as computer vision
 - 📕 I'm currently learning more about TypeScript, OpenCV, TensorFlow, and Flask
-- 🏃‍♂️ For hobbies, I enjoy playing games like Lost Ark and FFVII (yes, i'm a video game addict 🤓), and other stuff like cooking, badminton, and volleyball
+- 🏃‍♂️ For hobbies, I enjoy playing games like Lost Ark and FFVII (yes, i'm a video game addict 🤓)
 
 <!--
 **MingLongSu/MingLongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
