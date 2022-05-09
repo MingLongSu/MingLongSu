@@ -1,8 +1,8 @@
 ### Hey, there! 👋
 
 - 😹 I'm currently a first-year computer science student studying at the University of Waterloo
-- 💭 I'm currently interested in web development as well as computer vision
-- 📕 I'm currently learning more about TypeScript, OpenCV, TensorFlow, and Flask
+- 💭 I'm currently interested in machine learning and computer vision
+- 📕 I'm currently learning more about TensorFlow, Keras, OpenCV, and Neural Networks
 - 🏃‍♂️ For hobbies, I enjoy playing games like Sekiro, Lost Ark and FFVII (yes, i'm a video game addict 🤓)
 
 <!--
