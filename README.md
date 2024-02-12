@@ -1,9 +1,7 @@
 ### Hey, there! 👋
 
 - 😹 I'm currently a 3rd year computer science student studying at the University of Waterloo
-- 💭 I'm currently interested in machine learning, computer vision, and natural language processing
-- 📕 I'm currently learning more about feature engineering, data preprocessing, and data analysis
-
+- 💭 I'm currently interested in computer vision and image processing
 <!--
 **MingLongSu/MingLongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
